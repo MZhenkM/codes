@@ -1,24 +1,20 @@
 [
     {
-        "source": "Google",
         "author_name": "Jhoisber Diaz",
         "first_letter": "J",
         "rating": 5,
         "text": "Super buena calidad, demasiado rápidos, super responsables, totalmente recomendados.\n\nEl muchacho que atiende por Whatsapp muy linda voz"
     },
     {
-        "source": "Google",
         "author_name": "Deivis Esteves",
         "first_letter": "D",
         "rating": 5,
         "text": "Muy buen servicio, los paquetes llegan super rápido y la atención al cliente 20/10"
     },
     {
-        "source": "Facebook",
-        "author_name": "Cliente de Facebook",
-        "first_letter": "C",
-        "rating": "5",
-        "text": "excelente servicio, fue más rápido de lo que pensaba, mi pedido llegó en excelente estado y me lo trajeron a casa",
-        "recommendation_type": "positive"
+        "author_name": "Gregori Luque",
+        "first_letter": "G",
+        "rating": 5,
+        "text": "Que buen servicio los recomiendo 👍\nRápidos y seguros 10/10 👍"
     }
 ]
